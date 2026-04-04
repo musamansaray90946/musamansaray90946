@@ -8,6 +8,9 @@
   <a href="https://github.com/musamansaray90946" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-musamansaray90946-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://musamansaray90946.github.io/portfolio-v2/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6ee7b7?style=for-the-badge" />
+  </a>
 </p>
 
 ---
