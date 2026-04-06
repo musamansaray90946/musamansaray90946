@@ -54,7 +54,7 @@
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | [Budget Tracker](https://github.com/musamansaray90946/budget-tracker) | Full-stack finance app with auth, charts, and transaction management | React, Node.js, PostgreSQL, Prisma | [Live](https://budget-tracker-cyan-omega.vercel.app) |
-| [ShopFlow](https://github.com/musamansaray90946/shopflow) | Full-stack e-commerce store with Stripe payments, cart, and admin panel | React, Node.js, PostgreSQL, Stripe [Live](https://shopflow-ebon.vercel.app)
+| [ShopFlow](https://github.com/musamansaray90946/shopflow) | Full-stack e-commerce store with Stripe payments, cart, and admin panel | React, Node.js, PostgreSQL, Stripe | [Live](https://shopflow-ebon.vercel.app) |
 | [Real-Time Chat](https://github.com/musamansaray90946/realtimechat) | Real-time messaging application | Node.js, Socket.io | Coming soon |
 | [Task Flow](https://github.com/musamansaray90946/taskflow-project) | Task management application | React, Node.js | Coming soon |
 | [Quick Weather](https://github.com/musamansaray90946/quickweather) | Weather app using live API data | JavaScript, REST API | Coming soon |
