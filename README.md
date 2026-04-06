@@ -16,10 +16,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Student developer passionate about building real, useful applications
-- 💻 Currently focused on **Full-Stack Web Development**
-- 🌱 Learning by building — every project teaches me something new
-- 🎯 Goal: Land my first developer role and keep growing
+- 💻 Full-Stack Developer specialising in React, Node.js & PostgreSQL
+- 🚀 Building production-ready applications with real-world features
+- 🌍 Based in Nicosia, Cyprus — open to remote opportunities worldwide
+- 🎯 Passionate about clean code, great UX, and solving real problems
 
 ---
 
