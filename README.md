@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer | Architecting & Shipping Production-Ready Applications</h3>
 
 <p align="center">
-  <a href="https://musamansaray90946.github.io/portfolio-v2/" target="_blank">
+  <a href="https:/musamansaray90946.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-0F172A?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mmans.sl.001@gmail.com">
