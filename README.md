@@ -35,7 +35,7 @@ PalmRoot Tech is only the start. I want to build a group of companies across Afr
 
 - I have a MSc in Computer Science.
 - I build for Sierra Leone.
- -I work mostly with React Native, Expo, TypeScript, PostgreSQL, Python, HTML, CSS, and JavaScript.
+ I work mostly with React Native, Expo, TypeScript, PostgreSQL, Python, HTML, CSS, and JavaScript.
 - Right now, I am busy getting EduSalone into its first schools.
 
 ## Talk to me
