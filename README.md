@@ -15,7 +15,7 @@ I built it on my own. The first schools will start using it soon.
 Some things I made sure of:
 
 - One school can never see another school's pupils, staff, grades, or money. The database stops it, not just the app.
-- The database works out all the marks, grades, averages and class positions. So the report card and the mark sheet can never say two different things.
+- The database works out all the marks, grades, averages, and class positions. So the report card and the mark sheet can never say two different things.
 - Each school sets its own marking scheme and its own grade scale for each level. A Class 3 pupil is not marked the same way as an SSS 2 student.
 - Report cards and leaving certificates carry a code and a QR code. Anybody can check them online. You do not need an account.
 
@@ -33,9 +33,9 @@ PalmRoot Tech is only the start. I want to build a group of companies across Afr
 
 ## About me
 
-- I have an MSc/BSc in Computer Science.
+- I have a MSc in Computer Science.
 - I build for Sierra Leone.
-- I work mostly with React Native, Expo, TypeScript, and PostgreSQL.Python, HTML, CSS, and JavaScript 
+-I work mostly with React Native, Expo, TypeScript, PostgreSQL, Python, HTML, CSS, and JavaScript.
 - Right now I am busy getting EduSalone into its first schools.
 
 ## Talk to me
