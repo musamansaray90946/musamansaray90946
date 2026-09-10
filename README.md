@@ -1,75 +1,45 @@
-<h1 align="center">Musa Mansaray</h1>
-<h3 align="center">Full-Stack Developer</h3>
+# Hi, I am Musa Mansaray
 
-<p align="center">
-  <a href="https://musamansaray90946.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/musamansaray90946" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mmans.sl.001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I am the founder of PalmRoot Tech SL Limited. We build software for Sierra Leone.
 
----
+I started the company because most of the software our schools get was not made for us. It expects fast internet and new phones. Here, we do not always have that. So I decided to build for the place I come from.
 
-## About Me
+## EduSalone
 
-> Full-stack developer from Sierra Leone, currently based in Nicosia, Cyprus. I focus on building real-world solutions from database design to frontend deployment.
+EduSalone is a school management app for schools in Sierra Leone.
 
-I build and ship complete web applications focused on real-world use cases. I prefer writing clean, maintainable code to solve actual business problems rather than just building tutorials. 
+It does the normal work of a school. Enrolment, attendance, tests and exams, report cards, school fees, and moving pupils to the next class at the end of the year. It follows the way our schools are set up: Nursery, Primary, JSS, and SSS, with NPSE, BECE, and WASSCE at the end.
 
-Currently open to junior and mid-level developer roles (remote or on-site).
+I built it on my own. The first schools will start using it soon.
 
----
+Some things I made sure of:
 
-## 🏆 Flagship Project: EduSalone
+- One school can never see another school's pupils, staff, grades, or money. The database stops it, not just the app.
+- The database works out all the marks, grades, averages and class positions. So the report card and the mark sheet can never say two different things.
+- Each school sets its own marking scheme and its own grade scale for each level. A Class 3 pupil is not marked the same way as an SSS 2 student.
+- Report cards and leaving certificates carry a code and a QR code. Anybody can check them online. You do not need an account.
 
-**[View Live App: EduSalone](https://edusalone.vercel.app)** 
+Built with React Native and Expo, TypeScript, PostgreSQL, and Supabase.
 
-A production-ready SaaS platform used by schools in Sierra Leone. I architected and built this solo to handle real users, sensitive student data, and daily academic operations.
+See it here: https://app.palmroottech.com
 
-* **Multi-tenant Architecture:** Secure database design separating data across multiple schools.
-* **Role-Based Access Control:** Isolated dashboards for Super Admins, Principals, Teachers, and Students.
-* **Data Processing & PDF Generation:** Mathematical auto-grading engine that generates and exports 25-column A4 report cards and attendance registers.
-* **Financial Ledger:** Tracks school fee payments, outstanding balances, and generates digital receipts.
+## What comes next
 
-**Tech:** React Native (Web/Mobile), Supabase, PostgreSQL, Node.js, Vercel
+PalmRoot Tech is only the start. I want to build a group of companies across Africa working on three things:
 
----
+- Education. This is where I began, with EduSalone.
+- Farming. I grow palm back home. That is where the name PalmRoot comes from.
+- Health. This one will take longer.
 
-## 💻 Projects
+## About me
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Budget Tracker](https://github.com/musamansaray90946/budget-tracker)** | Tracks income, expenses, and financial history with charts | React, Node.js, PostgreSQL | [Live](https://budget-tracker-cyan-omega.vercel.app) |
-| **[DevJobs](https://github.com/musamansaray90946/devjobs)** | Job board with authentication and role-based access | React, Node.js, PostgreSQL | Code Available |
-| **[ShopFlow](https://github.com/musamansaray90946/shopflow)** | E-commerce app with payments and admin dashboard | React, Node.js, Stripe | Code Available |
-| **[Real-Time Chat](https://github.com/musamansaray90946/realtimechat)** | Messaging app with live websocket updates | Node.js, Socket.io | Code Available |
+- I have an MSc/BSc in Computer Science.
+- I build for Sierra Leone.
+- I work mostly with React Native, Expo, TypeScript, and PostgreSQL.Python, HTML, CSS, and JavaScript 
+- Right now I am busy getting EduSalone into its first schools.
 
----
+## Talk to me
 
-## 🛠️ Tech Stack
+If you run a school in Sierra Leone or are building something like this, please write to me.
 
-* **Frontend:** React, React Native (Expo), JavaScript, Tailwind CSS, HTML5, CSS3
-* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-* **Database:** PostgreSQL, Prisma ORM, Supabase
-* **Tools & Deploy:** Git, Vercel, Render, Railway
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musamansaray90946&show_icons=true&theme=transparent&hide_border=true&title_color=1A365D&text_color=4A5568&icon_color=3182CE" alt="Musa's GitHub Stats" />
-</p>
-
----
-
-## 📫 Contact
-
-* **Email:** [mmans.sl.001@gmail.com](mailto:mmans.sl.001@gmail.com)
-* **Portfolio:**[musamansaray90946.github.io](https://musamansaray90946.github.io/)
-* *Open to global developer opportunities.*
+info@palmroottech.com
