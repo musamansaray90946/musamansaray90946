@@ -42,4 +42,4 @@ PalmRoot Tech is only the start. I want to build a group of companies across Afr
 
 If you run a school in Sierra Leone or are building something like this, please write to me.
 
-info@palmroottech.com
+admin@palmroottech.com
